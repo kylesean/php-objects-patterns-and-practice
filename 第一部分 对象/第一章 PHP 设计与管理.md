@@ -66,7 +66,8 @@ XP 曾被一些人认为是幼稚的想法，但是它的成长经过了 20 年�
 
 > *Rfactoring:Improving the Design of Existing Code* 『重构：改善既有代码的设计』
 
-随着 XP 和设计模式的流行，测试也成为了一个热点。强大的测试工具 `JUnit` 的发布则使自动测试更加容易，而 `JUnit` 也成为了 Java 程序员武器库中必不可少的一件利器。`Kent Beck` 和 `Erich Gammar` 发表的 `"Test Infected:Programmers Lovers Writing Tests"` (http://junit.sourceforge.net/doc/testinfected/testing.htm)是一篇非常好的介绍测试的文章，并且至今仍有很大影响力。
+随着 XP 和设计模式的流行，测试也成为了一个热点。强大的测试工具 `JUnit` 的发布则使自动测试更加容易，而 `JUnit` 也成为了 Java 程序员武器库中必不可少的一件利器。`Kent Beck` 和 `Erich Gammar` 发表的 `"Test Infected:Programmers Lovers Writing Tests"`
+(http://junit.sourceforge.net/doc/testinfected/testing.htm)  是一篇非常好的介绍测试的文章，并且至今仍有很大影响力。
 
 PHP 4也在这个时期发布，它在效率上有很大提升，更重要的是强化了对对象的支持。这个改进使完全进行面向对象开发变得可能。程序员们都喜欢这个新特性，这让 Zend 公司的创始人 `Zeev Suraski` 和 `Andi Gutmans` （他们和 PHP 创始人 Rasmus Lerdorf 一起参与 PHP 内核的开发）有点吃惊。正如我们在下一章将看到的，PHP 中的对象支持并不完美，但只要遵守一定的原则，在使用语法时细心一点，你就可以真正使用 PHP 进行面向对象开发。
 
